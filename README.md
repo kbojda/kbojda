@@ -166,3 +166,6 @@ __Mind maps & diagrams__
 __"Testing dot com"__ R.Savin 2017 (in English) - an excellent book for a very beginners. It explains the general goals and basic techniques in software testing.
 
 __"A Practitioner's Guide to Software Test Design"__ Lee Copeland 2004 - comprehensive explanation of the fundamental techniques and approaches used in software testing.
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kbojda&theme=vue&border_radius=0.8&date_format=M%20j%5B%2C%20Y%5D&card_width=492)](https://git.io/streak-stats)
