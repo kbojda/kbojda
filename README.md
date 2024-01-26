@@ -164,4 +164,3 @@ __"Testing dot com"__ R.Savin 2017 (in English) - an excellent book for a very b
 __"A Practitioner's Guide to Software Test Design"__ Lee Copeland 2004 - comprehensive explanation of the fundamental techniques and approaches used in software testing.
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kbojda&theme=vue&border_radius=0.8&date_format=M%20j%5B%2C%20Y%5D&card_width=492)](https://git.io/streak-stats)
