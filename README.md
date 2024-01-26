@@ -1,5 +1,5 @@
 ## About me 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=kbojda.README.md)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=kbojda.kbojda)
 I'm kbojda, 
 
 - 📚 Student in Software Development
