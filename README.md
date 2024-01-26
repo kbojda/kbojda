@@ -115,7 +115,7 @@ __Mind maps & diagrams__
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kbojda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kbojda" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kbojda-io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kbojda" height="30" width="40" /></a>
 <a href="https://kaggle.com/kevinbojda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kevinbojda" height="30" width="40" /></a>
 <a href="https://dribbble.com/kbojda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="kbojda" height="30" width="40" /></a>
 <a href="https://medium.com/@kbojda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kbojda" height="30" width="40" /></a>
