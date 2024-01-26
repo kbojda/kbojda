@@ -1,6 +1,6 @@
 ## About me 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=kbojda.kbojda)
-I'm kbojda, 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A58F80&random=false&width=435&lines=Hey+I'm+Kevin+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 - 📚 Student in Software Development
 - ⌨️ Mostly coding in Python/JS/
