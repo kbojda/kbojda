@@ -1,6 +1,5 @@
 ## About me 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
-
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=kbojda)
 I'm kbojda, 
 
 - 📚 Student in Software Development
